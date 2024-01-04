@@ -1,5 +1,4 @@
-Ensure Node is installed
-https://nodejs.org/en/download
+### Welcome to my (partial) solution to the SLCSP assignment!
+All my code is in JavaScript and can be found in the index.js file.
 
-Run `npm install csv-parse`
-Run `node index.js`
+To execute, please run `node index.js`
